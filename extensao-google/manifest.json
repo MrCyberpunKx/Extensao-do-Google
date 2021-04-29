@@ -1,0 +1,13 @@
+{
+    "name": "CAPS LOCK",
+    "version": "1.0",
+    "description": "Ativa o Caps Lock",
+    "browser_action":{
+        "default_popup":"index.html"
+
+    },
+
+    "manifest_version": 2
+
+    
+}
